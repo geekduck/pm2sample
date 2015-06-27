@@ -1,0 +1,6 @@
+{
+  "name": "pm2sample",
+  "script": "server.js",
+  "exec_mode": "fork",
+  "instances": 0
+}
